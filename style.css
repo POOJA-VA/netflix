@@ -65,7 +65,7 @@ body{
         cursor: pointer;
         outline: none;
         border-radius: 4px;
-        border: none;
+        border: none;   
     }
     .container .navbar .right button a{
         text-decoration: none;
